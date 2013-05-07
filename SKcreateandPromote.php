@@ -1,6 +1,8 @@
 <?php
 /**
  * Maintenance script to create an account and grant it administrator rights
+ *
+ * Sturmkrieg pattern createandPromote.php
  * Modified to create and promote users to Oversight and Sysadmin additionally
  *
  * Modified by Inquisitor Ehrenstein – inquisitorsasha@sturmkrieg.de
